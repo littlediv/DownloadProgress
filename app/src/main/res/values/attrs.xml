@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DownloadProgressBar">
+        <attr name="barColor" format="color"></attr>
+        <attr name="barHeight" format="dimension"></attr>
+        <attr name="progressColor" format="color" />
+        <attr name="progressTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
